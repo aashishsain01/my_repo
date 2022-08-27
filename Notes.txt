@@ -1,0 +1,25 @@
+Variables -> 1) Var ->Redeclare, Reassign, Hoisting, Global
+	     2) Let -> Reassign, Block
+	     3) Const -> Block
+
+Datatypes -> A value in JavaScript is always of a certain type. For example, a string or a number.
+
+1) Primitive Datatypes  
+2) Non Primitive Datatypes  
+
+
+
+Primitive Datatypes - 
+1) String -> In JavaScript, there are 3 types of quotes.
+		Double quotes: "Hello".
+		Single quotes: 'Hello'.
+		Backticks: `Hello`.
+2) Number -> Both, Integers and Float
+3) BigInt -> A BigInt value is created by appending n to the end of an integer: Ex- const bigInt = 1234567890123456789012345678901234567890n;
+4) Boolean -> Ture/False
+5) Null	-> Nothing, Empty, Value Unknown
+6) Undefined -> Value not assigned
+7) Symbol -> Symbol("id")
+
+Non Primitive Datatypes - 
+1) Object -> Collection of Data.
